@@ -1,8 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja"><id>0</id><title>テスト</title><updated>2022-10-04T04:05:08.061153+00:00</updated><author><name>TI Inc.</name><email>info@t-i.jp</email></author><link href="https://t-i.jp" rel="alternate"/><link href="https://t-i.jp" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://t-i.jp</logo><subtitle>フィードのタイトルです</subtitle><entry><id>0</id><title>店舗スタッフ・小売業の働き方改革のポイントは？ 店舗での導入事例も紹介</title><updated>2022-10-04T04:05:08.061364+00:00</updated><content>
-    働き方改革とは、労働者が個々人の事情やライフスタイルに応じた働き方を選べるよう、従来の働き方を見直そうとする動きです。
-    働き方改革は、少子高齢化による労働人口の減少や、長時間労働の是正を望む声が高まっていることなどが背景にあります。
-    多くの企業・店舗にとって働き方改革の導入は、現実的に難しいものがあります。その要因の1つとして考えられるのが、日本の多くの企業が労働集約的であるということです。
-    小売業はもちろん、業界・業種を問わずほとんどの企業が社員の労働力に支えられてきました。
-    小売業が抱える課題としては、慢性的な人手不足があります。
-    店舗（現場）で働き方改革を導入する際に考慮すべきポイントとして、複数の勤務体系</content><link href="https://www.digital-transformation-real.com/blog/wsr-for-store-staff-and-retail.html" rel="alternate"/><published>2022-09-29T23:00:00+00:00</published></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja"><id>0</id><title>テスト</title><updated>2022-10-04T04:25:52.863622+00:00</updated><author><name>TI Inc.</name><email>info@t-i.jp</email></author><link href="https://t-i.jp" rel="alternate"/><link href="https://t-i.jp" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://t-i.jp</logo><subtitle>フィードのタイトルです</subtitle><entry><id>4</id><title>DX推進における各種調査内容や動向をまとめて紹介</title><updated>2022-10-04T04:25:52.865380+00:00</updated><content>
+    DXに関する調査は、公的機関や民間のリサーチ会社などで行われています。
+    「デジタルトランスフォーメーション調査2022の分析」では、3,800社を対象に行われた調査結果から、DX銘柄に指定されている企業は全体平均に比べ、すべてのカテゴリにおける回答スコアが高いことがわかりました。
+    「中小企業のDX推進に関する調査」では、1,000社を対象に行われた調査結果から、DXを推進しているもしくは検討している企業よりも、「取り組む予定はない」とする企業が上回っているという実態が判明しています。
+    「日本企業のDX推進実態調査2022」では、1,103名を対象に行われた調査結果から、DXの推進において、圧倒的に最も投資しているのは「ITインフラ」であることがわかりました。</content><link href="https://www.digital-transformation-real.com/blog/survey-contents-and-trends-in-dx-promotion" rel="alternate"/><published>2022-09-29T06:35:27+00:00</published></entry><entry><id>3</id><title>ESG経営とは? そのメリットや注意点なども解説</title><updated>2022-10-04T04:25:52.865229+00:00</updated><content>
+    ESG経営とは、環境・社会・ガバナンスの3つの要素に配慮した経営手法のことです。
+    ESG経営を導入することで、企業はブランドイメージの向上や経営リスクの抑制、ビジネスチャンスの獲得などのメリットを得られます。
+    ESG経営への取り組みは、その企業でしかできないことではありません。同じ業種の企業や競合他社に差をつけるためにも、ESG経営に力を入れていきましょう。</content><link href="https://www.digital-transformation-real.com/blog/what-is-esg-management" rel="alternate"/><published>2022-09-29T06:40:37+00:00</published></entry><entry><id>2</id><title>FinTech（フィンテック）の定義とは？関連サービスやグローバル市場について解説</title><updated>2022-10-04T04:25:52.865070+00:00</updated><content>
+    
+- フィンテックは、金融のFinance（ファイナンス）と技術のTechnology（テクノロジー）を合わせた言葉です。
+- FinTechは、銀行や証券などの金融サービスにIT技術を用いて変革をもたらす動きの総称であり、近年身近になったスマートフォン決済などもその一例です。
+- フィンテックは、幅広く決済手段や資産運用などのサービスを提供しています。
+- フィンテックの拡大の背景には、ICTの普及と金融サービスの分権化などがあります。
+- フィンテックで 注目されているテクノロジーには、ブロックチェーンやビッグデータ・AI・IoTなどが挙げられます。</content><link href="https://www.digital-transformation-real.com/blog/what-is-the-definition-of-fintech" rel="alternate"/><published>2022-09-29T06:56:05+00:00</published></entry><entry><id>1</id><title>スポーツにおけるAIの活用方法とは？AI導入のメリットや事例を紹介</title><updated>2022-10-04T04:25:52.864862+00:00</updated><content>
+    スポーツにおけるAIの役割は、選手情報の取得、会場の混雑状況の把握、予測、スポーツ総合競技の戦略立案などです。
+    
+    選手情報を取得することでコンディションの正確な把握ができ、会場の混雑状況を予測することで観戦者の利便性向上や運営者の適切な対応が可能となります。
+    
+    スポーツにAIを導入することで、選手の情報をリアルタイムで数値化できるほか、綿密な戦略の立案にも役立ちます。</content><link href="https://www.digital-transformation-real.com/blog/how-is-ai-used-in-sports" rel="alternate"/><published>2022-09-29T06:57:42+00:00</published></entry><entry><id>0</id><title>店舗スタッフ・小売業の働き方改革のポイントは？ 店舗での導入事例も紹介</title><updated>2022-10-04T04:25:52.863756+00:00</updated><content>
+    1. 小売業は慢性的な人手不足があり、働き方改革による勤務体系の抜本的な見直しが要求されています。
+    2. 小売業が働き方改革を進める際、複数の勤務体系を用意すること、時間の取捨選択をしっかりと行うこと、在宅勤務を活用することが大切です。
+    3. 小売業で働き方改革を導入する際は、システムの導入などを検討してみましょう。</content><link href="https://www.digital-transformation-real.com/blog/wsr-for-store-staff-and-retail.html" rel="alternate"/><published>2022-09-29T23:00:00+00:00</published></entry></feed>
