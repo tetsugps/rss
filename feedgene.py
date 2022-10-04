@@ -18,14 +18,14 @@ fg.logo(logo)
 fg.subtitle('フィードのタイトルです')
 fg.link(href=url, rel='self')
 fg.language('ja')  # iso639
-fg.image(url)
+fg.image(url=url)
 
 fe = fg.add_entry()
 fe.id("1")
 fe.title('エントリー１')
 fe.link(href=url)
 fe.pubDate(now)
-fe.content("content")
-fe.description("description")
+# fe.content("content")
+fe.description("ここに文章が入ります。")
 
 fg.atom_file("atom.xml")
