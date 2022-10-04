@@ -4,7 +4,7 @@ import pytz
 
 unaware = datetime.datetime(2011, 8, 15, 8, 15, 12, 0)
 aware = datetime.datetime(2011, 8, 15, 8, 15, 12, 0, pytz.UTC)
-now = datetime.datetime.now()
+now = datetime.datetime.now(pytz.timezone('Asia/Tokyo'))
 
 logo = "https://prtimes.jp/data/corp/40420/tmp-9c9afdfe87f255d43762faf051399838-4146237a3477a4f2e775a05b4fa06df7.jpg"
 url = "https://t-i.jp"
