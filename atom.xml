@@ -1,2 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja"><id>0</id><title>テスト</title><updated>2022-10-04T01:26:11.602529+00:00</updated><author><name>TI Inc.</name><email>info@t-i.jp</email></author><link href="https://t-i.jp" rel="alternate"/><link href="https://t-i.jp" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://t-i.jp</logo><subtitle>フィードのタイトルです</subtitle><entry><id>1</id><title>エントリー１</title><updated>2022-10-04T01:26:11.602591+00:00</updated><content>ここに文章が入ります。</content><link href="https://t-i.jp" rel="alternate"/><published>2022-10-04T10:26:11.602499+09:00</published></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja"><id>0</id><title>テスト</title><updated>2022-10-04T04:05:08.061153+00:00</updated><author><name>TI Inc.</name><email>info@t-i.jp</email></author><link href="https://t-i.jp" rel="alternate"/><link href="https://t-i.jp" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://t-i.jp</logo><subtitle>フィードのタイトルです</subtitle><entry><id>0</id><title>店舗スタッフ・小売業の働き方改革のポイントは？ 店舗での導入事例も紹介</title><updated>2022-10-04T04:05:08.061364+00:00</updated><content>
+    働き方改革とは、労働者が個々人の事情やライフスタイルに応じた働き方を選べるよう、従来の働き方を見直そうとする動きです。
+    働き方改革は、少子高齢化による労働人口の減少や、長時間労働の是正を望む声が高まっていることなどが背景にあります。
+    多くの企業・店舗にとって働き方改革の導入は、現実的に難しいものがあります。その要因の1つとして考えられるのが、日本の多くの企業が労働集約的であるということです。
+    小売業はもちろん、業界・業種を問わずほとんどの企業が社員の労働力に支えられてきました。
+    小売業が抱える課題としては、慢性的な人手不足があります。
+    店舗（現場）で働き方改革を導入する際に考慮すべきポイントとして、複数の勤務体系</content><link href="https://www.digital-transformation-real.com/blog/wsr-for-store-staff-and-retail.html" rel="alternate"/><published>2022-09-29T23:00:00+00:00</published></entry></feed>
